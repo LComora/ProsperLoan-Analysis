@@ -16,14 +16,16 @@ Use visualizations to communicate insights clearly
 bash
 Copy
 Edit
+```
 📁 ProsperLoan-Analysis
 ├── Part_I_exploration_template.html     # Exploratory Data Analysis
 ├── Part_II_explanatory_template.html    # Final Visual Storytelling
-├── Part_I_exploration_template.ipynb
-├── Part_I_exploration_template.ipynb
-├── prosperLoanData.csv
-├── utils.py
+├── Part_I_exploration_template.ipynb    # Notebook version of Part I
+├── Part_II_explanatory_template.ipynb   # Notebook version of Part II
+├── prosperLoanData.csv                  # Original dataset from Prosper
+├── utils.py                             # Custom helper functions for data processing and visualization
 └── README.md
+```
 
 ### 📌 Dataset
 Name: Prosper Loan Data
